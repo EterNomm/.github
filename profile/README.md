@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-EterNomm is a non-profit organization founded by LyQuid on September 2, 2021, and is run as a hobby. The organization's primary focus is on developing Python-based projects.
+EterNomm is a non-profit organization founded by [LyQuid](https://github.com/LyQuid12) on September 2, 2021, and is run as a hobby. The organization's primary focus is on developing Python-based projects.
